@@ -2,9 +2,14 @@
 
 
 #### Before asking, it's good to search - Don't overload the internet ! 
+    
+    The answer may be somewhere, try google, stackoverflow, ... 
+
+### How to - Write a question : 
 
 
-Ex  : 
+Start with a title, summarize your idea, start by explaining whats wrong before showing the code
+<hr>
 
 #### Title : How to center elements using Flexbox properties in CSS 
 
